@@ -6,7 +6,7 @@ Este projeto faz parte do meu portfólio pessoal, fiz apenas com a intenção de
 
 Email-me: luanheider@hotmail.com
 
-Connect with me at [LinkedIn](https://www.linkedin.com/in/luanheidercheidt/)
+Conecte-se comigo em [LinkedIn](https://www.linkedin.com/in/luanheidercheidt/)
 
 ## Funcionalidades
 - O usuário pode iniciar a busca digitando o CEP válido desejado.
