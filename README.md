@@ -21,8 +21,8 @@ Para executar este projeto no modo de desenvolvimento, você precisará ter um a
 ### Instalando
 **Clonando este repositório**
 ```
-$ https://github.com/bernalvinicius/quiz-app.git
-$ cd quiz-app
+$ https://github.com/luanheider/api-search-cep.git
+$ cd api-search-cep
 ```
 **Instalando dependências**
 ```
