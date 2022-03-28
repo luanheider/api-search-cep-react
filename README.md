@@ -13,7 +13,7 @@ Connect with me at [LinkedIn](https://www.linkedin.com/in/luanheidercheidt/)
 - Apó digitar o CEP válido é só clicar no ícone de busca do lado direito.
 - Após o click, um modal abrirá na tela com as informações do CEP digitado.
 ## Algumas observações sobre este App.
-- A API usada para realizar a buscar é a [The Movie Database API.](https://developers.themoviedb.org/3/getting-started/introduction)
+- A API usada para realizar a buscar é a [ViaCEP API.](https://viacep.com.br/)
 
 ## Começando
 ### Pré-requisitos
