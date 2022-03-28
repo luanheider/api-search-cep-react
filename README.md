@@ -4,7 +4,7 @@
 ## Por quê?
 Este projeto faz parte do meu portfólio pessoal, fiz apenas com a intenção de melhorar minhas habilidades em React.js, então, ficarei feliz se você puder me fornecer algum feedback sobre o projeto, código, estrutura ou qualquer coisa que você pode relatar que poderia me tornar um desenvolvedor melhor!
 
-Email-me: luanheider@hotmail.com
+Email: luanheider@hotmail.com
 
 Conecte-se comigo em [LinkedIn](https://www.linkedin.com/in/luanheidercheidt/)
 
